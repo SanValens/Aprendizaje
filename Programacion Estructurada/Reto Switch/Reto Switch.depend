@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1583550318 source:c:\users\sony\documents\platzi\programacion estructurada\reto switch\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,25 @@
+¿Cuáles acciones y permisos puede tener un usuario sobre un archivo?
+R: 
+Acciones: Leer, escribir y ejecutar, iguales son los permisos 
+​
+¿Todos los usuarios tienen los mismos permisos sobre todos los archivos? ¿Quiénes pueden o no trabajar con estos 
+documentos? ¿Cómo se dividen los permisos de un archivo o carpeta?
+R:​ No, y los permisos son diferentes y cambiables para cada usuario y para cada carpeta, todo es modificable con chmod
+
+Al hablar de usuarios y permisos en el sistema operativo, ¿qué significa un 777? ¿Deberíamos preocuparnos?
+R: Absolutamente todos tienen permiso de leer escribir y ejecutar un archivo, no deberiamos estar preocupados, deberiamos 
+estar despedidos por haber dejado esa falla de seguridad
+​
+¿Que permisos debes tener para poder editar un archivo que creo otro usuario de tu sistema operativo?
+R: Permisos de lectura y escritura, de tipo grupo​
+
+¿Con qué comando cambiamos los permisos que tienen los usuarios para trabajar con un archivo?
+R: chmod​
+
+No quieres que nadie pueda editar ni mucho menos ejecutar un script muy peligroso que estás creando. 
+¿Qué permisos debe tener este script para conseguir este resultado?
+R: Si es abosultamente nadie mas que yo: chmod 700 <file>​
+
+¿Quién es sudo? ¿Es peligroso?
+R: Sudo es Dios... en tu computadora, quien tiene el poder de admin para cambiar lo que le desee a tu deseo o 
+voluntad divina

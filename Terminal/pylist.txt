@@ -1,0 +1,57 @@
+ sed -i -e '1i#/usr/bin/env python3.8' ./Algoritmos/Python/arte.py
+ sed -i -e '1i#/usr/bin/env python3.8' ./Algoritmos/Python/quickSort.py
+ sed -i -e '1i#/usr/bin/env python3.8' ./Computacion\ con\ Python/aproximacion.py
+ sed -i -e '1i#/usr/bin/env python3.8' ./Computacion\ con\ Python/baseDatos1.py
+ sed -i -e '1i#/usr/bin/env python3.8' ./Computacion\ con\ Python/busqueda_binaria.py
+ sed -i -e '1i#/usr/bin/env python3.8' ./Computacion\ con\ Python/caja_de_cristal.py
+ sed -i -e '1i#/usr/bin/env python3.8' ./Computacion\ con\ Python/CicloFor.py
+ sed -i -e '1i#/usr/bin/env python3.8' ./Computacion\ con\ Python/Enumeracion.py
+ sed -i -e '1i#/usr/bin/env python3.8' ./Computacion\ con\ Python/erroresManejados.py
+ sed -i -e '1i#/usr/bin/env python3.8' ./Computacion\ con\ Python/erroresManejados2.py
+ sed -i -e '1i#/usr/bin/env python3.8' ./Computacion\ con\ Python/exercise1.py
+ sed -i -e '1i#/usr/bin/env python3.8' ./Computacion\ con\ Python/exercise2.py
+ sed -i -e '1i#/usr/bin/env python3.8' ./Computacion\ con\ Python/exercise3.py
+ sed -i -e '1i#/usr/bin/env python3.8' ./Computacion\ con\ Python/factorial.py
+ sed -i -e '1i#/usr/bin/env python3.8' ./Computacion\ con\ Python/fibonacci.py
+ sed -i -e '1i#/usr/bin/env python3.8' ./Computacion\ con\ Python/for_y_listas.py
+ sed -i -e '1i#/usr/bin/env python3.8' ./Computacion\ con\ Python/lambda.py
+ sed -i -e '1i#/usr/bin/env python3.8' ./Computacion\ con\ Python/listasEjercicio.py
+ sed -i -e '1i#/usr/bin/env python3.8' ./Computacion\ con\ Python/unitTesting.py
+ sed -i -e '1i#/usr/bin/env python3.8' ./Dinamica\ y\ Estotastica/Aleatoriedad\ en\ JavaScript/fibonachi_dinamico.py
+ sed -i -e '1i#/usr/bin/env python3.8' ./POO\ con\ Python/bases_de_POO.py
+ sed -i -e '1i#/usr/bin/env python3.8' ./POO\ con\ Python/bubble_sort.py
+ sed -i -e '1i#/usr/bin/env python3.8' ./POO\ con\ Python/busqueda_binaria_again.py
+ sed -i -e '1i#/usr/bin/env python3.8' ./POO\ con\ Python/Ejercicio\ POO\ Cine\ en\ Casa/home_cinema.py
+ sed -i -e '1i#/usr/bin/env python3.8' ./POO\ con\ Python/Ejercicio\ POO\ Cine\ en\ Casa/main.py
+ sed -i -e '1i#/usr/bin/env python3.8' ./POO\ con\ Python/Ejercicio\ POO\ Cine\ en\ Casa/main_stereo.py
+ sed -i -e '1i#/usr/bin/env python3.8' ./POO\ con\ Python/Ejercicio\ POO\ Cine\ en\ Casa/main_tv.py
+ sed -i -e '1i#/usr/bin/env python3.8' ./POO\ con\ Python/herencia_polimorfismo.py
+ sed -i -e '1i#/usr/bin/env python3.8' ./POO\ con\ Python/insert_sort.py
+ sed -i -e '1i#/usr/bin/env python3.8' ./POO\ con\ Python/merge_sort.py
+ sed -i -e '1i#/usr/bin/env python3.8' ./POO\ con\ Python/morral.py
+ sed -i -e '1i#/usr/bin/env python3.8' ./POO\ con\ Python/msmdasmda.py
+ sed -i -e '1i#/usr/bin/env python3.8' ./POO\ con\ Python/time_time.py
+ sed -i -e '1i#/usr/bin/env python3.8' ./POO\ con\ Python/uso_getter_setter.py
+ sed -i -e '1i#/usr/bin/env python3.8' ./Programacion\ Orientada\ a\ Objetos (OOP)/POO/Personal/AyudaPython/Ayuda2.py
+ sed -i -e '1i#/usr/bin/env python3.8' ./Programacion\ Orientada\ a\ Objetos (OOP)/POO/Personal/AyudaPython/AyudaLink.py
+ sed -i -e '1i#/usr/bin/env python3.8' ./Programacion\ Orientada\ a\ Objetos (OOP)/POO/Personal/TFT\ Champs/Python/champs.py
+ sed -i -e '1i#/usr/bin/env python3.8' ./Programacion\ Orientada\ a\ Objetos (OOP)/POO/Personal/TFT\ Champs/Python/main.py
+ sed -i -e '1i#/usr/bin/env python3.8' ./Programacion\ Orientada\ a\ Objetos (OOP)/POO/Personal/TFT\ Champs/Python/stackTraits.py
+ sed -i -e '1i#/usr/bin/env python3.8' ./Programacion\ Orientada\ a\ Objetos (OOP)/POO/Personal/TFT\ Champs/Python/traits.py
+ sed -i -e '1i#/usr/bin/env python3.8' ./Programacion\ Orientada\ a\ Objetos (OOP)/POO/Python/account.py
+ sed -i -e '1i#/usr/bin/env python3.8' ./Programacion\ Orientada\ a\ Objetos (OOP)/POO/Python/card.py
+ sed -i -e '1i#/usr/bin/env python3.8' ./Programacion\ Orientada\ a\ Objetos (OOP)/POO/Python/carrito.py
+ sed -i -e '1i#/usr/bin/env python3.8' ./Programacion\ Orientada\ a\ Objetos (OOP)/POO/Python/cash.py
+ sed -i -e '1i#/usr/bin/env python3.8' ./Programacion\ Orientada\ a\ Objetos (OOP)/POO/Python/driver.py
+ sed -i -e '1i#/usr/bin/env python3.8' ./Programacion\ Orientada\ a\ Objetos (OOP)/POO/Python/main.py
+ sed -i -e '1i#/usr/bin/env python3.8' ./Programacion\ Orientada\ a\ Objetos (OOP)/POO/Python/payment.py
+ sed -i -e '1i#/usr/bin/env python3.8' ./Programacion\ Orientada\ a\ Objetos (OOP)/POO/Python/paypal.py
+ sed -i -e '1i#/usr/bin/env python3.8' ./Programacion\ Orientada\ a\ Objetos (OOP)/POO/Python/uberBlack.py
+ sed -i -e '1i#/usr/bin/env python3.8' ./Programacion\ Orientada\ a\ Objetos (OOP)/POO/Python/uberPool.py
+ sed -i -e '1i#/usr/bin/env python3.8' ./Programacion\ Orientada\ a\ Objetos (OOP)/POO/Python/uberVan.py
+ sed -i -e '1i#/usr/bin/env python3.8' ./Programacion\ Orientada\ a\ Objetos (OOP)/POO/Python/uberX.py
+ sed -i -e '1i#/usr/bin/env python3.8' ./Programacion\ Orientada\ a\ Objetos (OOP)/POO/Python/user.py
+ sed -i -e '1i#/usr/bin/env python3.8' ./Random\ Stuff/fives.py
+ sed -i -e '1i#/usr/bin/env python3.8' ./Random\ Stuff/Manage\ Discord/discord_opener.py
+ sed -i -e '1i#/usr/bin/env python3.8' ./Random\ Stuff/Manage\ Discord/secrets.py
+ sed -i -e '1i#/usr/bin/env python3.8' ./Random\ Stuff/Manage\ Discord/trying_stuff.py

@@ -1,0 +1,24 @@
+<!--Este archivo no tiene .js-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Manage Time and Asincronism</title>
+</head>
+<body>
+  
+</body>
+<script>
+  console.log('a')
+  setTimeout(() => console.log('b'), 0)
+  /*Notas: 
+  * 1. El codigo sigue ejecutandose mientras ocurre el tiempo
+  * 2. Puede que esté listo para ejecutarse, pero recordar que las Task
+  * van cuando se termine el Call Stack, por tal re ejecutará último*/
+  console.log('c')
+
+  setTimeout(()=> console.log('d'), 2000)
+  //for(var i=0; i<10000000000; i++){}
+
+</script>
+</html>

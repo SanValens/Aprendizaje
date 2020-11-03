@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1583374487 source:c:\users\sony\documents\platzi\programacion estructurada\areacilindro\main.c
+	<stdio.h>
+	<stdlib.h>
+
